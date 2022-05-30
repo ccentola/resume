@@ -1,0 +1,294 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Carl Centola",
+    "label": "Senior Analyst, Purchasing at Carvana",
+    "image": "",
+    "email": "carl.centola@gmail.com",
+    "phone": "7818582449",
+    "url": "",
+    "summary": "Passionate about creating analytical tools for fun and for fame! I leverage my 7+ years of analytical experience to develop applications that capture organizational data, analyze patterns, and communicate key findings visually.\n\nPython | Pandas | Javascript | React | Node.js | Express |  SQL | Tableau",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ACoAAAYSJfcBpjnZ6JmfzB9wQTDH_dFwlzscULM",
+        "url": "https://www.linkedin.com/in/ACoAAAYSJfcBpjnZ6JmfzB9wQTDH_dFwlzscULM/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Carvana",
+      "position": "Senior Analyst, Purchasing",
+      "startDate": "2021-04-30",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/carvana/",
+      "location": "Tempe, Arizona, United States"
+    },
+    {
+      "name": "Carvana",
+      "position": "Senior Analyst, Infrastructure Development",
+      "startDate": "2020-03-31",
+      "endDate": "2021-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/carvana/",
+      "location": "Phoenix, Arizona, United States"
+    },
+    {
+      "name": "State Street",
+      "position": "Business Analyst, Assistant Vice President",
+      "startDate": "2018-02-28",
+      "endDate": "2020-03-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/state-street/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "State Street",
+      "position": "Business Analyst, Officer",
+      "startDate": "2016-10-31",
+      "endDate": "2018-02-28",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/state-street/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "State Street",
+      "position": "Project Analyst, Senior Associate",
+      "startDate": "2015-07-31",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/state-street/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "ASU Foundation for A New American University",
+      "position": "Accounting Clerk",
+      "startDate": "2013-03-31",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/asu-foundation-for-a-new-american-university/",
+      "location": "Tempe, AZ"
+    },
+    {
+      "name": "ASU Foundation for A New American University",
+      "position": "Finance Assistant",
+      "startDate": "2012-11-30",
+      "endDate": "2013-03-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/asu-foundation-for-a-new-american-university/",
+      "location": "Tempe, AZ"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Arlington Catholic High School",
+      "position": "Assistant Lacrosse Coach",
+      "startDate": "2011-03-31",
+      "endDate": "2011-06-30",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arizona State University, W. P. Carey School of Business",
+      "area": "Business Administration",
+      "studyType": "Bachelor's",
+      "startDate": "2011-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "edX Verified Certificate for Data Science Orientation",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/48a9255fee0648db940740c53e2f2000"
+    },
+    {
+      "name": "edX Verified Certificate for Querying with Transact-SQL",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/0d9ace91eb0946f384bbbd0ade8dd744"
+    },
+    {
+      "name": "edX Verified Certificate for Statistical Thinking for Data Science and Analytics",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/20dc8ed4ddf24d2593d1f620788494b1"
+    },
+    {
+      "name": "edX Verified Certificate for Introduction to R for Data Science",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/6df4ee07ab5445b294d9f7e0bbd91450"
+    },
+    {
+      "name": "edX Verified Certificate for Programming in R for Data Science",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/3867cf2e705445278758cec2940234f2"
+    },
+    {
+      "name": "edX Verified Certificate for Analyzing and Visualizing Data with Power BI",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/f0f7bf8e09c6408f87c50f59e014435c"
+    },
+    {
+      "name": "edX Verified Certificate for Data Science Essentials",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/e50115bfd95b4c1596f1de2fc8ae5375"
+    },
+    {
+      "name": "edX Verified Certificate for Principles of Machine Learning",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/25099c2f22bd497c9a34fd8987175daf"
+    },
+    {
+      "name": "edX Verified Certificate for Implementing Predictive Analytics with Spark in Azure HDInsight",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/15cddfd6b4404bd4ac13fca0781fff7a"
+    },
+    {
+      "name": "edX Verified Data Science Professional Project",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/d1396e50361c4e77a72c1b2fd1fcaef3"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Mining",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Wrangling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Power BI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
